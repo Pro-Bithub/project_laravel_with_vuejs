@@ -43,7 +43,7 @@ return [
         'mysql' => [
             'host' => '127.0.0.1',
             'driver'    => 'mysql',
-            'database'  => 'issetso',
+            'database'  => '',
             'username'  => 'root',
             'password'  => '',
             'charset'   => 'utf8',
